@@ -1,3 +1,3 @@
-👋 Hello, there
+Hello.
 
 I like to learn things.
