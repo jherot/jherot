@@ -1,2 +1,2 @@
-- 👋 Hello, there
-- 👀 I like to learn things
+👋 Hello, there
+I like to learn things
