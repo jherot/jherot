@@ -1,3 +1,3 @@
-**Greetings**
+**greetings**
 
-I like to learn things.
+this is where we build.
